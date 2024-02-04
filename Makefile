@@ -10,3 +10,6 @@ build:
 
 test:
 	@go test -failfast model/ordmap/*.go
+
+test-race:
+	@go test -race ./...
