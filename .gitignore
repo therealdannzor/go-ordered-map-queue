@@ -1,0 +1,9 @@
+# Binaries
+bin/server
+bin/client
+
+# Text files
+*.txt
+
+# IDE cache
+io/.*.go
